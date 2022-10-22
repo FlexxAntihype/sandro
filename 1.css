@@ -1,0 +1,62 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-image: url(fone.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+
+.stream{
+    margin: 50px;
+    margin-left: 130px;
+}
+.block-stream{
+    height: 50px;
+    width: 1640px; ;
+    background-color: purple;
+    color: white;
+    border-radius: 15px 15px 0% 0%;
+    display: flex;
+}
+.txt-stream{
+    margin: 10px;
+    width: 701px;
+}
+.Home{
+    margin: 10px;
+    background-color: purple;
+    border:none;
+    font-size: 25px;
+    color: white;
+    border-radius: 15px;
+    width: 100px;
+    margin-left: 1100px;
+}
+.Home:hover{
+        box-shadow: 0px -1px 33px 0px white;
+        height: 30px;
+
+
+}
+
+.block-down-stream{
+    height: 50px;
+    width: 1640px; ;
+    background-color: purple;
+    color: white;
+    border-radius: 0px 0px 15px 15px;
+    display: flex;
+    margin-top: -5px;
+}
+.a-stream{
+    color: white;
+    font-size: 25px;
+    margin-left: 0px;
+}
+.a-block{
+    margin: 10px;
+}
